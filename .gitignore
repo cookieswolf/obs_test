@@ -27,3 +27,13 @@
 *.exe
 *.out
 *.app
+
+Debug/
+Release/
+ipch/
+*.opensdf
+*.sdf
+*.suo
+*.filters
+*.user
+*.aps
